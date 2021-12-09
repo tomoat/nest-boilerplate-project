@@ -3,8 +3,8 @@ version: '3.5'
 services:
 
   # Databases # #
-  postgres-test:
-    container_name: postgres-test
+  postgresql-test:
+    container_name: postgresql-test
     image: postgres:11.2-alpine
     environment:
       POSTGRES_USER: ${POSTGRES_USER:-admin}

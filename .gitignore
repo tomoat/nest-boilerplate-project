@@ -2,3 +2,8 @@
 */node_modules
 */statics
 */*.log
+/data*
+/mongodb*
+/backend/**.env
+/**.env
+/nginx/**.pem

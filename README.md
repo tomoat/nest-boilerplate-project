@@ -67,3 +67,4 @@
 | PUT `users/self` | - |
 | PUT `users/self/picture` | - |
 | DELETE `users/self/picture` | - |
+
